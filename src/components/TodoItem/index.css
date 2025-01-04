@@ -1,0 +1,8 @@
+.todo-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+li{
+    width: 500px;
+}
